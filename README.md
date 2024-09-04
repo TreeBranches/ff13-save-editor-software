@@ -5,6 +5,7 @@ A save editor for the Steam and Xbox App/Windows Store version of Final Fantasy 
 This can only be used in combination with Final Fantasy XIII Save Decryptor, found in the Nova Crystallis Discord in #general channel. (Created by Joschka)
 
 https://discord.gg/pc9PdpKsRc - Discord Invite
+
 https://discord.com/channels/824468795275608136/824488395937677333/941761558537723954 - Should link to XIIIPCSaveDecryptor
 
 DISCLAIMER - This is not tested fully and may not work as intended. I am not proficient at coding, so if you find any bugs, found that something broke or have any questions, please contact me on Discord @Kirathereaperuwu
